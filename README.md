@@ -1,19 +1,20 @@
 <h1> One For All </h1>
 
-<h2> Sobre o projeto </h2>
+<h2> About the project </h2>
 
 <div> 
-Este projeto foi desenvolvido no curso de back-end, com a proposta de utilizar as principais funções que lidam com números, strings, datas e agregação de dados no MySQL.
+
+This project was developed in the back-end course, with the proposal to use the main functions that deal with numbers, strings, dates and data aggregation in MySQL.
 
 </div> 
 
-<h2> Avaliação do Projeto </h2>
+<h2> Project Evaluation </h2>
 
 <img src="images/avaliacao.png"/>
 
-<h2>Contato </h2>
+<h2>Contact </h2>
 
-<p> Para mais informações entre em contato: </p>
+<p> For more information contact us: </p>
 
 <div>
 <a href="https://www.linkedin.com/in/thiago-hayashi-037732109/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
